@@ -1,5 +1,5 @@
 # Arduino com Display LCD e conexão ao banco de dados de um servidor
-* Experimento usando Arduino: Um sistema que escrever no display LCD uma mensagem lida no banco de dados em um servidor
+* Experimento usando Arduino: Um sistema que escreve no display LCD uma mensagem lida no banco de dados em um servidor
 a partir de um script que fará a comunicação com a porta serial do arduino.
 
 # Importante
