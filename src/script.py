@@ -1,6 +1,6 @@
 """
 *
-* SERIAL :: Copyright (c) 2001-2011 Chris Liechti <cliechti@gmx.net>;
+* PYSERIAL :: Copyright (c) 2001-2011 Chris Liechti <cliechti@gmx.net>;
 *
 """
 
