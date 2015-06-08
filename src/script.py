@@ -1,4 +1,8 @@
-# LINGUAGEM PYTHON
+"""
+*
+* SERIAL :: Copyright (c) 2001-2011 Chris Liechti <cliechti@gmx.net>;
+*
+"""
 
 import serial
 import time
