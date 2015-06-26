@@ -4,10 +4,15 @@ a partir de um script que fará a comunicação com a porta serial do arduino.
 
 # Importante
 
-* No "script.py" é necessário alterar o endereço do servidor de arquivos onde contém o script que fará a 
-leitura do banco de dados.
+* No "script.py" basta alterar o endereço do servidor de arquivos onde contém o script.php que fará a 
+leitura do banco de dados e os parâmetros de saída.
+* No "script.php" basta alterar as informações de conexão do servidor e os parâmetros de entrada.
 * Ao conectar o arduino a entrada usb, basta executar o "script.py" que fará a comunicação com a porta serial.
 * Como o script foi escrito em python, é necessário ter o python instalado e também a biblioteca "pyserial".
+
+# Circuito
+
+<img src="https://github.com/lucasmlima08/DisplayLCD_ServidorBD/blob/master/circuit.jpg" width="500" />
 
 # Algumas Imagens
 
